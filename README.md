@@ -2,7 +2,7 @@
 
 Hello my name is S Aswathi Mohan, an Aspring Data Analyst. As someone with a mathematics backbroad, I use my analytical skills to create meaningful insights from data. See my projects below.
 
-$\hline$
+___
 
 ### Skills
 - Languages: Python, SQL
