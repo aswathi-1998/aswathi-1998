@@ -7,7 +7,13 @@ Hello my name is S Aswathi Mohan, an Aspring Data Analyst. As someone with a mat
 ---
 
 ### Skills
+
 - Languages: Python, SQL
 - Tools: Excel, Pandas, Matplotlib,Seaborn, Tableau, Power BI
 - Others: Data Cleaning, EDA, Visualization
 
+---
+
+### My Personal Projects
+
+[Soacial Media Ad Campaign Analysis](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign)
