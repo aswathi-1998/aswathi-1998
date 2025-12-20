@@ -16,4 +16,4 @@ Hello my name is S Aswathi Mohan, an Aspring Data Analyst. As someone with a mat
 
 ### My Personal Projects
 
-[Soacial Media Ad Campaign Analysis](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign)
+- [Social Media Ad Campaign Analysis](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign)
