@@ -1,3 +1,4 @@
 # About myself
 --
-This page is an overview about the various projects that I have done to develop myself as a Data Analyst
+Hello my name is S Aswathi Mohan, an Aspring Data Analyst. As someone with a mathematics backbroad, I use my analytical skills to create meaningful insights from data. I am keen in data cleaning and visualization. See my projects below.
+--
