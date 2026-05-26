@@ -1,8 +1,7 @@
 # About myself
 
----
 
-Hello my name is S Aswathi Mohan. As an aspiring data analyst with a mathematics background, I combine deep theoretical rigor with sharp observational insight to transform raw data into clear, actionable strategies. Proficient in Excel, Power BI, and Tableau for dynamic reporting and storytelling, I also leverage SQL and Python (Pandas, Matplotlib, Seaborn) to uncover hidden patterns. My core strength lies in meticulous data cleaning, intuitive visualization, and translating complex findings into decisions that drive results.
+Hello my name is S Aswathi Mohan. As an aspiring data professional with a mathematics background, I combine deep theoretical rigor with sharp observational insight to transform raw data into clear, actionable strategies. Proficient in Excel, Power BI, and Tableau for dynamic reporting and storytelling, I also leverage SQL and Python (Pandas, Matplotlib, Seaborn) to uncover hidden patterns. My core strength lies in meticulous data cleaning, intuitive visualization, and translating complex findings into decisions that drive results.
 
 ---
 
