@@ -17,17 +17,15 @@ Hello my name is S Aswathi Mohan. As an aspiring data professional with a mathem
 
 #### Data Analysis
 
-____________________
-
-##### Power BI
+##### 1. Power BI
 
 - [Keralam Air Pollution Analysis : 2021-2026](https://github.com/aswathi-1998/Power-BI-Air-Pollution-Analysis)
 - [Social Media Ad Campaign Analysis](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign)
 
-##### Excel
+##### 2. Excel
 
 - [Teenage phone Addiction](https://github.com/aswathi-1998/Excel-Teen-Phone-Addiction-Dashboard)
 - [Post Pandemic Health Analysis Dashboard](https://github.com/aswathi-1998/Excel-Post-Pandemic-Health-Analysis-Dashboard)
   
-##### Python
+##### 3. Python
 - [Exploratory Data Analysis on e-commerce data](https://github.com/aswathi-1998/EDA-e-commerce-website)
