@@ -17,6 +17,7 @@ Hello my name is S Aswathi Mohan. As an aspiring data professional with a mathem
 
 #### 1. Power BI
 
+- [Music Sales Analysis](https://github.com/aswathi-1998/Power-BI-Chinook-Music-Store-Sales)
 - [Keralam Air Pollution Analysis : 2021-2026](https://github.com/aswathi-1998/Power-BI-Air-Pollution-Analysis)
 - [Social Media Ad Campaign Analysis](https://github.com/aswathi-1998/Power-BI-Social-Media-Ad-Campaign)
 - [Store Sales Analysis](https://github.com/aswathi-1998/Power-BI-Superstore-Sales-Analysis)
